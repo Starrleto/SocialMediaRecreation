@@ -1,0 +1,57 @@
+.line{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.box{
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.bg{
+    background-color: hsl(228, 28%, 20%);
+    font-family: inter;
+}
+
+.redText{
+    color: hsl(356, 69%, 56%);
+}
+
+.green{
+    color: hsl(163, 72%, 41%);
+}
+
+.font-60{
+    font-size: 60px;
+}
+
+.font-30{
+    font-size: 30px;
+}
+
+h1.dark{
+    color: white;
+    font-weight: 700;
+    font-family: inter;
+}
+
+p.dark{
+    color: hsl(228, 34%, 66%);
+    font-family: inter;
+}
+
+h1.light{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-family: inter;
+}
+
+p.light{
+    color: hsl(228, 12%, 44%);
+    font-family: inter;
+}
+
+/*hsl(228, 12%, 44%)*/
